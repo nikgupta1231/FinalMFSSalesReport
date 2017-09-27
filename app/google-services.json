@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "518064139087",
+    "firebase_url": "https://mfssalesreport.firebaseio.com",
+    "project_id": "mfssalesreport",
+    "storage_bucket": "mfssalesreport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518064139087:android:f12e4185a0f01abc",
+        "android_client_info": {
+          "package_name": "com.myapplication.nik.mfssalesreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518064139087-e558vs9m8c91g2q2n1a53a9su59t6do8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapplication.nik.mfssalesreport",
+            "certificate_hash": "1cf84d352bbcd7bba5160e5deb13c5fa87200fd7"
+          }
+        },
+        {
+          "client_id": "518064139087-9gr5pdmr436s404dbjinct6u1834p7vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobvVciWMPcOUeiZfVCJVpRglU2v9YNWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518064139087-9gr5pdmr436s404dbjinct6u1834p7vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

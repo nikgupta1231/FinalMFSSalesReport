@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MFS Sales Report</string>
+    <string name="enter_email_id">Email</string>
+    <string name="enter_password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">create account</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigattion drawer</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="signout">SignOut</string>
+    <string name="communicate">Communicate</string>
+    <string name="share_app">Share App</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="banner">Banner</string>
+    <string name="remarks">remarks</string>
+    <string name="submit">submit</string>
+    <string name="customer_name">customer_name</string>
+    <string name="customer_location">customer_location</string>
+    <string name="contact_number">contact_number</string>
+    <string name="email_id">email_id</string>
+    <string name="department">department</string>
+    <string name="discussion">discussion</string>
+    <string name="action_plan">action_plan</string>
+    <string name="timeline">timeline</string>
+</resources>
